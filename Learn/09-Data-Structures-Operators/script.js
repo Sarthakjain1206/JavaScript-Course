@@ -480,6 +480,7 @@ const restaurant = {
 
 //* ======================= MAPS ENDS =========================
 
+//* ======================= STRINGS ===========================
 const st = "sArThak";
 const s = st.replace('A', 'a');
 console.log(s);
